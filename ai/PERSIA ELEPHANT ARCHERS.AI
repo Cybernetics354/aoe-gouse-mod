@@ -13,8 +13,7 @@
 //UPatch HD 1.1: removed short sword and axe
 
 B109      Town_Center1         1      -1           
-B70       House                1      -1
-R146      Hardest              1      70       
+R146      Hardest              1      109            
 U83       Man                  6      109          
 B12       Barracks1            1      -1  
 T83       Man                  6      109      2             
