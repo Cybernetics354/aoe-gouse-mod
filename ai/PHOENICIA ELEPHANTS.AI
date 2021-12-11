@@ -12,7 +12,6 @@
  
 B109      Town_Center1         1      -1           
 R146      Hardest              1      109            
-
 U83       Man                  6      109          
 B12       Barracks1            1      -1  
 T83       Man                  6      109      2             
@@ -52,9 +51,9 @@ U125      Priest               1      104
 B79       Watch_Tower          1      -1                      
 
 C103    Iron_Age               1      109
-B87       Range1               1      -1
+B87       Range1               6      -1
 U25       Soldier-El_Archer    2      87          
-B101      Stable1              1      -1 
+B101      Stable1              6      -1 
 B104      Temple1              1      -1
 U25       Soldier-El_Archer    2      87     
 R106    Ballistics             1      82
@@ -83,6 +82,34 @@ R19     Monotheism             1      104
 R47     Bronze_Shield          1      103    
 R117    Iron_Shield            1      103    
 R125    Armored_Elephants      1      101
+R125    Armored_Elephants      25      101
+U25       Soldier-El_Archer    10      87          
+R125    Armored_Elephants      25      101
+U25       Soldier-El_Archer    10      87          
+R125    Armored_Elephants      25      101
+U25       Soldier-El_Archer    10      87          
+R125    Armored_Elephants      25      101
+U25       Soldier-El_Archer    10      87          
+R125    Armored_Elephants      25      101
+U25       Soldier-El_Archer    10      87          
+R125    Armored_Elephants      25      101
+U25       Soldier-El_Archer    10      87          
+R125    Armored_Elephants      25      101
+U25       Soldier-El_Archer    10      87          
+R125    Armored_Elephants      25      101
+U25       Soldier-El_Archer    10      87          
+R125    Armored_Elephants      25      101
+U25       Soldier-El_Archer    10      87          
+R125    Armored_Elephants      25      101
+U25       Soldier-El_Archer    10      87          
+R125    Armored_Elephants      25      101
+U25       Soldier-El_Archer    10      87          
+R125    Armored_Elephants      25      101
+U25       Soldier-El_Archer    10      87          
+R125    Armored_Elephants      25      101
+U25       Soldier-El_Archer    10      87          
+R125    Armored_Elephants      25      101
+U25       Soldier-El_Archer    10      87          
 
 B276      Wonder               1      -1     
 //End

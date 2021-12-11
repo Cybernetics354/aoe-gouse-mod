@@ -20,16 +20,15 @@ C101    Tool_Age               1      109
 T347      Soldier-Slinger      2      12       3
 B84       Market1              1      -1           
 T83       Man                  2      109      2   
-B50       Farm                 1      -1           
 R16     Watch_Tower            1      68           
 U83       Man                  2      109          
-B50       Farm                 1      -1           
 U83       Man                  1      109
 B79       Watch_Tower          1      -1       
-B101      Stable1              1      -1       
 U83       Man                  2      109          
+B101      Stable1              1      -1       
  
 C102    Bronze_Age             1      109          
+B101      Stable1              3      -1       
 R28     Wheel                  1      84           
 B87       Range1               1      -1     
 T83       Man                  2      109      1    
@@ -44,12 +43,12 @@ B50       Farm                 1      -1
 T83       Man                  2      109      1   
 R12     Sentry_Tower           1      68  
 R31     Plow                   1      84
-B104      Temple1              1      -1  
+B104      Temple1              6      -1  
 R42     Leather_Armor_Cav      1      103             
 R45     Scale_Armor-Cavalry    1      103          
 U125      Priest               2      104
 T83       Man                  2      109      1          
-B101      Stable1              1      -1 
+B101      Stable1              4      -1 
 U125      Priest               2      104                 
 B79       Watch_Tower          2      -1       
 R46     Toolworking            1      103
@@ -83,7 +82,36 @@ R106    Ballistics             1      82
 R2      Ballista_Tower         1      68     
 B79       Watch_Tower          3      -1     
 U40       Soldier-Chariot1     6      101      
-             
+U40       Soldier-Chariot1     25     101      
+U125      Priest               5      104    
+U40       Soldier-Chariot1     25     101      
+U125      Priest               5      104    
+U40       Soldier-Chariot1     25     101      
+U125      Priest               5      104    
+U40       Soldier-Chariot1     25     101      
+U125      Priest               5      104    
+U40       Soldier-Chariot1     25     101      
+U125      Priest               5      104    
+U40       Soldier-Chariot1     25     101      
+U125      Priest               5      104   
+U40       Soldier-Chariot1     25     101      
+U125      Priest               5      104    
+U40       Soldier-Chariot1     25     101      
+U125      Priest               5      104    
+U40       Soldier-Chariot1     25     101      
+U125      Priest               5      104   
+U40       Soldier-Chariot1     25     101      
+U125      Priest               5      104   
+U40       Soldier-Chariot1     25     101      
+U125      Priest               5      104   
+U40       Soldier-Chariot1     25     101      
+U125      Priest               5      104   
+U40       Soldier-Chariot1     25     101      
+U125      Priest               5      104   
+
+
+
+
 B276      Wonder               1      -1     
 
 //End
