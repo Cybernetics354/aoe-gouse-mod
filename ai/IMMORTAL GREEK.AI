@@ -43,18 +43,18 @@ U35       Soldier-Catapult1    1      49
 T347      Soldier-Slinger      1      12        2
 B0        Academy              6      -1     
 R31     Plow                   1      84     
-U93       Soldier-Phal1        1      0      
+U93       Soldier-Phal1        5      0      
 B79       Watch-Tower          2      -1
-U93       Soldier-Phal1        1      0          
+U93       Soldier-Phal1        5      0          
 R46     Tool_Working           1      103
-U93       Soldier-Phal1        1      0       
+U93       Soldier-Phal1        5      0       
 R12     Sentry_Tower           1      68 
-U93       Soldier-Phal1        1      0         
+U93       Soldier-Phal1        5      0         
 R51     Metal_Working          1      103 
-U93       Soldier-Phal1        1      0         
+U93       Soldier-Phal1        5      0         
 B79       Watch-Tower          2      -1
 R40     Leather_Armor_-_Soldie 1      103 
-U93       Soldier-Phal1        1      0         
+U93       Soldier-Phal1        5      0         
 R43     Scale_Armor_-_Soldiers 1      103
 U35       Soldier-Catapult1    1      49             
 
@@ -119,9 +119,6 @@ U35       Soldier-Catapult1    10      49
 U93       Soldier-Phal1        25      0
 U35       Soldier-Catapult1    10      49
 
-
-  
-B276      Wonder               1      -1     
 R2      Ballista-Tower         1      68
 R36     Massive-Cats           1      49
 

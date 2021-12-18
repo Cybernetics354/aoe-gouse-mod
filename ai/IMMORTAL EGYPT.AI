@@ -54,7 +54,7 @@ B79       Watch_Tower          2      -1
 R46     Toolworking            1      103
 B82       Government_Center    1      -1
 U125      Priest               2      104  
-U40       Soldier-Chariot1     6      101                   
+U40       Soldier-Chariot1     15      101                   
 R51     Metalworking           1      103
 
 C103    Iron_Age               1      109
@@ -108,11 +108,6 @@ U40       Soldier-Chariot1     25     101
 U125      Priest               5      104   
 U40       Soldier-Chariot1     25     101      
 U125      Priest               5      104   
-
-
-
-
-B276      Wonder               1      -1     
 
 //End
 
